@@ -1,0 +1,24 @@
+{
+  "short_name": "Danush 3.0",
+  "name": "Danush 3.0 Life OS",
+  "description": "Personal Life Dashboard - Health, Career, Finance & more",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0A0A0C",
+  "background_color": "#0A0A0C",
+  "orientation": "portrait"
+}
